@@ -1,0 +1,16 @@
+﻿  Danhsach_sv.cpp
+E:\C++\C++\DuAn\QLSV\Baitapnhom_QLSV\Baitapnhom_QLSV\Sinhvien.h(7,22): warning C4584: 'Student': base-class 'Person' is already a base-class of 'student_clss'
+E:\C++\C++\DuAn\QLSV\Baitapnhom_QLSV\Baitapnhom_QLSV\Nguoi.h(5): message : see declaration of 'Person'
+E:\C++\C++\DuAn\QLSV\Baitapnhom_QLSV\Baitapnhom_QLSV\Lop_sv.h(6): message : see declaration of 'student_clss'
+E:\C++\C++\DuAn\QLSV\Baitapnhom_QLSV\Baitapnhom_QLSV\Danhsach_sv.h(8,28): warning C4584: 'List_student': base-class 'student_clss' is already a base-class of 'Student'
+E:\C++\C++\DuAn\QLSV\Baitapnhom_QLSV\Baitapnhom_QLSV\Lop_sv.h(6): message : see declaration of 'student_clss'
+E:\C++\C++\DuAn\QLSV\Baitapnhom_QLSV\Baitapnhom_QLSV\Sinhvien.h(7): message : see declaration of 'Student'
+E:\C++\C++\DuAn\QLSV\Baitapnhom_QLSV\Baitapnhom_QLSV\Danhsach_sv.h(8,28): warning C4584: 'List_student': base-class 'Person' is already a base-class of 'Student'
+E:\C++\C++\DuAn\QLSV\Baitapnhom_QLSV\Baitapnhom_QLSV\Nguoi.h(5): message : see declaration of 'Person'
+E:\C++\C++\DuAn\QLSV\Baitapnhom_QLSV\Baitapnhom_QLSV\Sinhvien.h(7): message : see declaration of 'Student'
+E:\C++\C++\DuAn\QLSV\Baitapnhom_QLSV\Baitapnhom_QLSV\Danhsach_sv.cpp(22,20): warning C4018: '<': signed/unsigned mismatch
+E:\C++\C++\DuAn\QLSV\Baitapnhom_QLSV\Baitapnhom_QLSV\Danhsach_sv.cpp(49,20): warning C4018: '<': signed/unsigned mismatch
+E:\C++\C++\DuAn\QLSV\Baitapnhom_QLSV\Baitapnhom_QLSV\Danhsach_sv.cpp(70,20): warning C4018: '<': signed/unsigned mismatch
+E:\C++\C++\DuAn\QLSV\Baitapnhom_QLSV\Baitapnhom_QLSV\Danhsach_sv.cpp(90,11): warning C4018: '<': signed/unsigned mismatch
+E:\C++\C++\DuAn\QLSV\Baitapnhom_QLSV\Baitapnhom_QLSV\Danhsach_sv.cpp(102,20): warning C4018: '<': signed/unsigned mismatch
+  Baitapnhom_QLSV.vcxproj -> E:\C++\C++\DuAn\QLSV\Baitapnhom_QLSV\Debug\Baitapnhom_QLSV.exe
